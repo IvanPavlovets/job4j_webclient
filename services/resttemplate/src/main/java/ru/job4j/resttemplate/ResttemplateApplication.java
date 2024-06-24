@@ -10,7 +10,7 @@ public class ResttemplateApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ResttemplateApplication.class, args);
-		log.info("Go to -> :{}", "http://localhost:8080");
+		log.info("Go to -> :{}", "http://localhost:8081");
 	}
 
 }
